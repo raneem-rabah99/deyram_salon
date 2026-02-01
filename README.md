@@ -12,3 +12,5 @@ Flutter salon booking app built with **MVVM architecture** and feature-based str
 ## Architecture
 This project follows **MVVM** with feature-first organization.
 
+## Demo Video
+demo/demo.mp4
